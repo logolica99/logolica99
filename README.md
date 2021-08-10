@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=logolica99&color=blueviolet)
+
 <!--
 - 🔭 I’m currently working on polico
 --> 
