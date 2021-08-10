@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=logolica99&color=blueviolet)
 
 
-- 🔭 I’m currently working on equcational platform
+- 🔭 I’m currently working on an educational platform
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on any cool opensource projects
 - 📫 How to reach me: jamijubaer@gmail.com
