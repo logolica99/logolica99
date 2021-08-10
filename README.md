@@ -22,6 +22,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br /><br /><br />
 
+<img src = "https://github-readme-stats.vercel.app/api?username=logolica99&show_icons=true&theme=gruvbox" width="55%" height ="200rem"/><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=logolica99&layout=compact&&theme=gruvbox" width="45%" height ="200rem"/>
+
+
+<!--
 <img align="left" alt="Mehrab Haque's Github Stats" src="https://github-readme-stats.vercel.app/api?username=logolica99&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=logolica99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
