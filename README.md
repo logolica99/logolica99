@@ -29,8 +29,7 @@
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
 
-</p><br/>
-<br /><br /><br />
+</p>
 
 <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=logolica99&show_icons=true" />   &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logolica99&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
