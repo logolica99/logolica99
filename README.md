@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-
+<img src="https://img.shields.io/badge/ubuntu-cf6304.svg?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
 
 </p>
