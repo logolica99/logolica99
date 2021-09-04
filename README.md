@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/logolica99/logolica99/main/cover.png"/>
+<img src="https://raw.githubusercontent.com/logolica99/logolica99/main/github_cover.png"/>
 
 ![](https://komarev.com/ghpvc/?username=logolica99&color=blueviolet)
 
