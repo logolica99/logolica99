@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on an educational platform
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on any cool opensource projects
 - 📫 How to reach me: jamijubaer@gmail.com
 
