@@ -36,7 +36,7 @@
 
 </p>
 
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=logolica99&show_icons=true" />   &nbsp;
+<img align="left" alt="Logolica's Github Stats" src="https://github-readme-stats.vercel.app/api?username=logolica99&show_icons=true" />   &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logolica99&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
