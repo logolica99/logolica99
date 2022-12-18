@@ -37,7 +37,7 @@
 </p>
 
 <img align="left" alt="Logolica's Github Stats" src="https://github-readme-stats.vercel.app/api?username=logolica99&show_icons=true&theme=cobalt" />   &nbsp;
-<div style="padding:20px"></div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logolica99&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
 
 
