@@ -1,11 +1,11 @@
 
 <img src="https://raw.githubusercontent.com/logolica99/logolica99/main/github_cover2.png"/>
 
-![](https://komarev.com/ghpvc/?username=logolica99&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=logolica99&color=7bf1a3&style=for-the-badge)
 
 
 - 🔭 I’m currently working on an educational platform
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on any cool opensource projects
 - 📫 How to reach me: jamijubaer@gmail.com
 
@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/Postgresql-31648c?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/firebase-f2c129?style=for-the-badge&logo=Firebase&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/ubuntu-d64613.svg?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+ 
 <img src="https://img.shields.io/badge/git-f05134.svg?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
 
