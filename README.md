@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/logolica99/logolica99/main/github_cover2.png"/>
 
-![](https://komarev.com/ghpvc/?username=logolica99&color=7bf1a3&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=logolica99&color=1a222e&style=for-the-badge)
 
 
 - 🔭 I’m currently working on an educational platform
