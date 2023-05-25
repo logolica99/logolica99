@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=logolica99&color=1a222e&style=for-the-badge)
 
 
-- 🔭 I’m currently working on an educational platform
+- 🔭 I’m currently [Zenzone](https://zenzone.vercel.app)
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on any cool opensource projects
 - 📫 How to reach me: jamijubaer@gmail.com
