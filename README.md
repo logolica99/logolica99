@@ -2,10 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=logolica99&color=1a222e&style=for-the-badge)
 
 
-<div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=logolica99&show_icons=true&hide_border=true&theme=transparent" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=logolica99&layout=compact&hide=jupyter%20notebook&hide_border=true&theme=transparent" />
-</div>
+
+- 🔨 Currently building [Toothless](https://github.com/logolica99/toothless)
+- 🔗 Connect with me: [X](https://x.com/jubaerjami) · [LinkedIn](https://www.linkedin.com/in/jubaer-tanjil-jami-ab84a0167/)
 
 
 
